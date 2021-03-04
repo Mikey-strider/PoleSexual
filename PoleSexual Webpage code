@@ -163,15 +163,15 @@ h2 {
 }
 
 #contact {
-    color: #ffaffb;
+    color: #50ff40;
 }
 
 #comment {
-    color: #ffaffb;
+    color: #50ff40;
 }
 
 #aboutUs {
-    color: #ffc5fc;
+    color: #50ff40;
 }
 
 #mainNavbar {
@@ -204,7 +204,7 @@ h2 {
 }
 
 #insta {
-    color: #ffaffb;
+    color: #50ff40;
 }
 
 #insta .nav-link:hover {
@@ -212,7 +212,7 @@ h2 {
 }
 
 #twitch {
-    color: #ffaffb;
+    color: #50ff40;
 }
 
 #twitch .nav-link:hover {
