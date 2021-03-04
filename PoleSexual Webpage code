@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
+
+<!-- bootstrap-->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" 
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<!--CSS link -->
+        <link rel="stylesheet" href="pole.css">
+        <Title>Pole&#36;exual</Title>
+    </head>
+    
+    <body>
+        <div>
+        <header id="heading" class="heading">
+        <h1>Pole&#36;exual</h1>
+    </header>
+</div>
+
+            <nav id="mainNavbar" class="navbar navbar-dark navbar-expand-md py-0 fixed-top">
+                <a href="C:\Users\drome\Desktop\Code stuff\Pole$exual\Cash Register (Kaching) - Sound Effect (HD).mp3" class="navbar-brand">&#36;</a>
+        <button class="navbar-toggler" data-toggle="collapse" data-target="#navLinks" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div  class="collapse navbar-collapse" id="navLinks">
+        <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a href="#about" class="nav-link">About Us</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#vids" class="nav-link">Videos</a>
+                </li>               
+                <li class="nav-item">
+                    <a href="#pics" class="nav-link">Pictures</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#shows" class="nav-link">Shows</a>
+                </li>
+                <li class="nav-item">
+                    <a href="#contact" class="nav-link">Contact Info</a>
+                </li>
+             </ul>
+            </div>
+        </nav>
+
+        <div class="container">
+            <section class="container-fluid px-0">
+                <div class="row justify-content-start">
+                <div id="about" class="col-md-6 text-center">                                            
+                  <h2>About Us</h2>
+                     <p id="aboutUs">We are a variety show containing Drag, Aerial, and Pole.  We started off in May of 2015 with an idea and a love of performing.
+                 The idea was that since there are no places for a Drag Queen Pole Dancer to perform why not create our own show.  Since we were mostly affiliated with drag 
+                 we decided it would be best to add the two together.   The Stud was the first place to give us a start, so we were there 
+                 for 3 years doing a once a month show every first Sunday of the month.  After that we moved to the powerhouse where we spent 
+                 another 2 years doing a once a month show.  Then the pandemic hit and we didn't know what to do.  So we decided to start an online show called
+                 Pole@Home on Twitch.Tv which allowed us to start doing a weekly show.  April of 2021 will be a full year online.       
+                </p>                
+            </div>             
+              </div>
+             
+            <div class="row justify-content-end">
+              <div id="vids" class="col-md-6 text-center">                                
+                  <h2>Videos</h2>
+                  <video src=""></video>              
+            </div>             
+               </div>
+        </section>
+          
+            <div class="row justify-content-start">
+            <section class="container-fluid px-0">
+                <div id="pics" class="col-md-6 text-center">                                                            
+                  <h2>Pictures</h2>
+                  <img src="C:\Users\drome\Desktop\poleathome show\Intermission\jan and feb themes.jpg" alt="" 
+                  class="img-fluid" class="d-none d-lg-inline">
+                </div>                                       
+        </div>
+
+        <div class="row justify-content-end">
+        <div id="shows" class="col-md-6 text-center">                                                                          
+                  <h2>Shows</h2>
+             <img src="C:\Users\drome\Desktop\poleathome show\Intermission\shows\A Brand New Day.jpg" alt="" 
+             class="img-fluid" class="d-none d-lg-inline">            
+        </div>                   
+        </div>
+        </section>
+    </div>
+
+          
+
+<footer>
+    <Section >
+            <div id="contact" class="mb-3">
+                <label for="exampleFormControlInput1" class="form-label">Email address</label>
+                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+              </div>
+              <div class="mb-3">
+                <label for="exampleFormControlTextarea1" id="comment" class="form-label">Comments</label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+              </div>
+              <Div class="sites">
+                <a id="insta" href="https://www.instagram.com/polesexual/" class="nav-link">Instagram</a>
+                <a id="twitch" href="https://www.twitch.tv/poleathome" class="nav-link">Twitch</a>
+            </Div>
+        </Section>
+    </footer>
+        
+
+        
+     <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+    crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+    crossorigin="anonymous"></script>
+
+    <script>
+        $(function () {
+            $(document).scroll(function () {
+                var $nav = $("#mainNavbar");
+                $nav.toggleClass("scrolled", $(this).scrollTop() > $nav.height());
+            });
+        });
+    </script>
+    </body>
+
+</html>
+
+
+
+/* CSS Sheet */
+
+body {
+    background-color: #010041;
+    font-family: "playfair display", sans-serif;
+
+}
+
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.heading {
+    text-align: center;
+    background-color: #350061;
+}
+
+h1 {
+    color: #ffd105;
+}
+
+h2 {
+    color: #ffd105;
+    font-size: 2rem;
+}
+
+#contact {
+    color: #ffaffb;
+}
+
+#comment {
+    color: #ffaffb;
+}
+
+#aboutUs {
+    color: #ffc5fc;
+}
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#mainNavbar .nav-link {
+    color: #ffaffb;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #8d02ff;
+}
+
+#mainNavbar .navbar-brand {
+    color: #50ff40;
+    font-size: 1.5rem;
+}
+
+.navbar.scrolled {
+    background: #350061;
+    transition: background 300ms;
+}
+
+.sites {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#insta {
+    color: #ffaffb;
+}
+
+#insta .nav-link:hover {
+    color: #8d02ff;
+}
+
+#twitch {
+    color: #ffaffb;
+}
+
+#twitch .nav-link:hover {
+    color: #8d02ff;
+}
+
+
+@media (max-width: 1200px) {
+    #headingGroup h1 {
+        font-weight: 100;
+        font-size: 3rem;
+    }
