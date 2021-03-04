@@ -138,7 +138,7 @@
 /* CSS Sheet */
 
 body {
-    background-color: #010041;
+    background-color: #05050a;
     font-family: "playfair display", sans-serif;
 
 }
@@ -150,15 +150,15 @@ body {
 
 .heading {
     text-align: center;
-    background-color: #350061;
+    background-color: #2a163a;
 }
 
 h1 {
-    color: #ffd105;
+    color: #e6ff05e5;
 }
 
 h2 {
-    color: #ffd105;
+    color: #eeff05e5;
     font-size: 2rem;
 }
 
