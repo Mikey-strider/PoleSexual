@@ -1,6 +1,11 @@
 /* CSS Sheet */
 
 body {
+    background-image: url("./Images/Group.JPG");
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+    background-attachment: fixed;
     background-color: #05050a;
     font-family: "playfair display", sans-serif;
 
@@ -26,15 +31,15 @@ h2 {
 }
 
 #contact {
-    color: #50ff40;
+    color: #49fd01;
 }
 
 #comment {
-    color: #50ff40;
+    color: #49fd01;
 }
 
 #aboutUs {
-    color: #50ff40;
+    color: #49fd01;
 }
 
 #mainNavbar {
@@ -43,7 +48,7 @@ h2 {
 }
 
 #mainNavbar .nav-link {
-    color: #ffaffb;
+    color: #49fd01;
 }
 
 #mainNavbar .nav-link:hover {
@@ -56,7 +61,7 @@ h2 {
 }
 
 .navbar.scrolled {
-    background: #350061;
+    background: #2a163a;
     transition: background 300ms;
 }
 
@@ -67,7 +72,7 @@ h2 {
 }
 
 #insta {
-    color: #50ff40;
+    color: #49fd01;
 }
 
 #insta .nav-link:hover {
@@ -75,7 +80,7 @@ h2 {
 }
 
 #twitch {
-    color: #50ff40;
+    color: #49fd01;
 }
 
 #twitch .nav-link:hover {
@@ -88,3 +93,4 @@ h2 {
         font-weight: 100;
         font-size: 3rem;
     }
+}
